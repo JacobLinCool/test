@@ -1,8 +1,43 @@
 {
-  "date": "2025-04-11T21:41:27.770Z",
-  "timestamp": 1744407687770,
-  "totalItems": 2,
+  "date": "2025-04-11T22:05:30.367Z",
+  "timestamp": 1744409130367,
+  "totalItems": 7,
   "items": [
+    {
+      "id": "10",
+      "url": "https://home.gamer.com.tw/artwork.php?sn=6117202",
+      "title": "超級瑪利歐兄弟 驚人的誕生秘辛！《遊戲幕後祕辛與誕生（１）》 - ashley1992的創作 - 巴哈姆特",
+      "visitTime": 1744409078658.738,
+      "visitCount": 1
+    },
+    {
+      "id": "7",
+      "url": "https://gnn.gamer.com.tw/",
+      "title": "GNN 新聞網 - 巴哈姆特",
+      "visitTime": 1744408919210.88,
+      "visitCount": 1
+    },
+    {
+      "id": "6",
+      "url": "https://www.gamer.com.tw/",
+      "title": "巴哈姆特電玩資訊站",
+      "visitTime": 1744408913806.707,
+      "visitCount": 1
+    },
+    {
+      "id": "5",
+      "url": "https://www.google.com.tw/search?q=gamer.com.tw&sca_esv=9a6888ca637267bc&hl=zh_TW&source=hp&ei=YYz5Z_eQCaSQvr0PvrW3sAU&iflsig=ACkRmUkAAAAAZ_macS_DXvg4U16QFYJwsjDz-9Bw0pEV&ved=0ahUKEwi3xZXy-NCMAxUkiK8BHb7aDVYQ4dUDCBA&uact=5&oq=gamer.com.tw&gs_lp=Egdnd3Mtd2l6IgxnYW1lci5jb20udHdI6htQzAtYxBpwAXgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAqAIAmAMB8QUnS_uS5OmEfpIHAKAHALIHALgHAA&sclient=gws-wiz",
+      "title": "gamer.com.tw - Google 搜尋",
+      "visitTime": 1744408911174.582,
+      "visitCount": 1
+    },
+    {
+      "id": "4",
+      "url": "https://github.com/JacobLinCool/test/blob/main/data/2025-04-12.json",
+      "title": "test/data/2025-04-12.json at main · JacobLinCool/test · GitHub",
+      "visitTime": 1744407722226.993,
+      "visitCount": 1
+    },
     {
       "id": "3",
       "url": "https://www.google.com.tw/?hl=zh_TW",
