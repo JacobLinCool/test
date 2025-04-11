@@ -1,0 +1,21 @@
+{
+  "date": "2025-04-11T21:41:27.770Z",
+  "timestamp": 1744407687770,
+  "totalItems": 2,
+  "items": [
+    {
+      "id": "3",
+      "url": "https://www.google.com.tw/?hl=zh_TW",
+      "title": "Google",
+      "visitTime": 1744407649224.805,
+      "visitCount": 1
+    },
+    {
+      "id": "2",
+      "url": "https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyDQgCEAAYgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyDQgGEAAYgwEYsQMYgAQyDQgHEAAYgwEYsQMYgAQyDQgIEAAYgwEYsQMYgAQyDQgJEAAYgwEYsQMYgATSAQgyMDMzajBqMqgCALACAQ&sourceid=chrome&ie=UTF-8&sei=Iof5Z7qMH_n41e8Pi53-cA",
+      "title": "google - Google 搜尋",
+      "visitTime": 1744406306761.063,
+      "visitCount": 1
+    }
+  ]
+}
